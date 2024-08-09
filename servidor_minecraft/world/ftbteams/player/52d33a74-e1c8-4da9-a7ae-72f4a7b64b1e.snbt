@@ -1,0 +1,17 @@
+{
+	id: "52d33a74-e1c8-4da9-a7ae-72f4a7b64b1e"
+	type: "player"
+	player_name: "pajin_buu"
+	ranks: {
+		52d33a74-e1c8-4da9-a7ae-72f4a7b64b1e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pajin_buu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

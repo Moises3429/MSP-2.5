@@ -1,0 +1,17 @@
+{
+	id: "1e8f9096-1ab3-420c-9952-c0ff6fc5e6db"
+	type: "player"
+	player_name: "_MrCuack_"
+	ranks: {
+		1e8f9096-1ab3-420c-9952-c0ff6fc5e6db: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_MrCuack_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

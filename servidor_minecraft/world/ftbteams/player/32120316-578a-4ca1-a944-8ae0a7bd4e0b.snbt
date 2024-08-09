@@ -1,0 +1,17 @@
+{
+	id: "32120316-578a-4ca1-a944-8ae0a7bd4e0b"
+	type: "player"
+	player_name: "biviri"
+	ranks: {
+		32120316-578a-4ca1-a944-8ae0a7bd4e0b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "biviri"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
